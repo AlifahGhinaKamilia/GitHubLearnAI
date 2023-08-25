@@ -1,2 +1,2 @@
-# analisis_materi_git_alifah
+# alifah
 repository untuk menyimpan analisis materi git
